@@ -28,11 +28,11 @@
 
 ```
 
- - [kita指针](https://developer-oss.lanrar.com/file/?AWdUags6VWQIAQE5VGEGalRrV29T6QeTAJtQs1auV8wH7gDUCdVQ4APuAfRULlYtUmEBdFUsAWUDbVQ+XGVWCAFoVGcLa1UwCG4BZlQwBjBUNldrUzQHMAAhUDBWeVdrBzYAYQlnUDwDZQFiVDJWcVJ4AXRVNwExAzRUYFwzVngBMVQxC3lVMAhuAXhUZAZkVG9Xa1M6BzUAN1A1VjpXMgdiADQJNlBgA2MBZVRmVjZSagEyVWsBZQMyVGNcNFZuATdUNQtkVWAIOAFmVC4GfVRnVyJTKgdwAHRQM1Z4Vz8HYwBqCWdQNANiAW5UMVZhUjkBIlV+AWoDaVQ3XGZWagEwVDQLZVU5CGsBYVQ0Bj5UO1djUyIHKwAhUDBWZlchBzoAZgljUDcDbQFiVDVWblI6ATxVMwElA3FUIlx3VmoBMFQ1C2FVNwhuAWVUMAY0VDlXZFMqB3AAblAmVjdXZwc2AGAJelA8A2EBeVQ4Vm9SJgE2VT4BNwMqVHRcZFY4AXZUbQsJVWIINQFqVDA=)：感谢k圣开源
+ - [kita鼠标指针](https://developer-oss.lanrar.com/file/?AWdUags6VWQIAQE5VGEGalRrV29T6QeTAJtQs1auV8wH7gDUCdVQ4APuAfRULlYtUmEBdFUsAWUDbVQ+XGVWCAFoVGcLa1UwCG4BZlQwBjBUNldrUzQHMAAhUDBWeVdrBzYAYQlnUDwDZQFiVDJWcVJ4AXRVNwExAzRUYFwzVngBMVQxC3lVMAhuAXhUZAZkVG9Xa1M6BzUAN1A1VjpXMgdiADQJNlBgA2MBZVRmVjZSagEyVWsBZQMyVGNcNFZuATdUNQtkVWAIOAFmVC4GfVRnVyJTKgdwAHRQM1Z4Vz8HYwBqCWdQNANiAW5UMVZhUjkBIlV+AWoDaVQ3XGZWagEwVDQLZVU5CGsBYVQ0Bj5UO1djUyIHKwAhUDBWZlchBzoAZgljUDcDbQFiVDVWblI6ATxVMwElA3FUIlx3VmoBMFQ1C2FVNwhuAWVUMAY0VDlXZFMqB3AAblAmVjdXZwc2AGAJelA8A2EBeVQ4Vm9SJgE2VT4BNwMqVHRcZFY4AXZUbQsJVWIINQFqVDA=)：感谢k圣开源
 
  <div align="center">
   <img alt="Kita✨✨✨" src="kita.jpg" width="128" height="128"/>
-  <p>Kita✨✨✨</p>
+  <p>Kita～(∠・ω< )⌒✨✨✨</p>
 </div>
 
 #### 基础工具
@@ -87,3 +87,28 @@
 #### 游戏逃课
  - [风灵月影](https://flingtrainer.com/)：没关
  - [Cheat Engine](https://www.cheatengine.org/)：速览嘎啦剧情（下载当心捆绑包）
+
+
+
+
+<div align="center">
+ 
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
+## 🏄edge
+<!-- prettier-ignore-end -->
+</div>
+
+#### 论坛
+- [Stackexchange](https://stackexchange.com/sites)
+- [Medium](https://medium.com/)
+- [V2ex](https://www.v2ex.com/)
+- [NGA](https://bbs.nga.cn/)
+- [Reddit](https://www.reddit.com/)
+
+#### 播客
+- [小宇宙](https://ask.xiaoyuzhoufm.com/) 
+
+#### 模型
+- [模之屋](https://www.aplaybox.com/)
+- [Booth](https://booth.pm/zh-cn)
