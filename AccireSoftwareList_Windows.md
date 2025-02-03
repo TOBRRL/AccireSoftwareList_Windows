@@ -35,8 +35,12 @@
   <p>Kita～(∠・ω< )⌒✨✨✨</p>
 </div>
 
+#### 重装工具
+ - [Win11安装助手](https://www.microsoft.com/zh-cn/software-download/windows11/)：官方无痛重装
+ - [傲梅分区](https://www.disktool.cn/)：无损分区
+
 #### 基础工具
- - [Clash verge-rec](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe)：睁眼看世界
+ - [Clash verge-rec](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe)：睁眼看世界（目前奶昔）
  - [7-zip](https://www.7-zip.org/a/7z2409-x64.exe)：解压软件
  - [Sumatra](https://www.sumatrapdfreader.org/downloadafter)：轻量化Pdf
  - [Imageglass](https://imageglass.org/)：看图软件
