@@ -40,6 +40,7 @@
  - [7-zip](https://www.7-zip.org/a/7z2409-x64.exe)：解压软件
  - [Sumatra](https://www.sumatrapdfreader.org/downloadafter)：轻量化Pdf
  - [Imageglass](https://imageglass.org/)：看图软件
+ - [Mpv](https://vcb-s.com/archives/7594)：视频播放
  - [Office Tool Plus](https://otp.landian.vip/zh-cn/)：免费激活
  - [IDM](https://www.internetdownloadmanager.com/download.html)：下载器
  - [QQ](https://im.qq.com/index/)：通讯
