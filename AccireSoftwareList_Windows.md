@@ -28,11 +28,13 @@
 
 ```
 
- - [kita指针](https://developer-oss.lanrar.com/file/?AWdUags6VWQIAQE5VGEGalRrV29T6QeTAJtQs1auV8wH7gDUCdVQ4APuAfRULlYtUmEBdFUsAWUDbVQ+XGVWCAFoVGcLa1UwCG4BZlQwBjBUNldrUzQHMAAhUDBWeVdrBzYAYQlnUDwDZQFiVDJWcVJ4AXRVNwExAzRUYFwzVngBMVQxC3lVMAhuAXhUZAZkVG9Xa1M6BzUAN1A1VjpXMgdiADQJNlBgA2MBZVRmVjZSagEyVWsBZQMyVGNcNFZuATdUNQtkVWAIOAFmVC4GfVRnVyJTKgdwAHRQM1Z4Vz8HYwBqCWdQNANiAW5UMVZhUjkBIlV+AWoDaVQ3XGZWagEwVDQLZVU5CGsBYVQ0Bj5UO1djUyIHKwAhUDBWZlchBzoAZgljUDcDbQFiVDVWblI6ATxVMwElA3FUIlx3VmoBMFQ1C2FVNwhuAWVUMAY0VDlXZFMqB3AAblAmVjdXZwc2AGAJelA8A2EBeVQ4Vm9SJgE2VT4BNwMqVHRcZFY4AXZUbQsJVWIINQFqVDA=)：感谢k圣开源 
+ - [kita指针](https://developer-oss.lanrar.com/file/?AWdUags6VWQIAQE5VGEGalRrV29T6QeTAJtQs1auV8wH7gDUCdVQ4APuAfRULlYtUmEBdFUsAWUDbVQ+XGVWCAFoVGcLa1UwCG4BZlQwBjBUNldrUzQHMAAhUDBWeVdrBzYAYQlnUDwDZQFiVDJWcVJ4AXRVNwExAzRUYFwzVngBMVQxC3lVMAhuAXhUZAZkVG9Xa1M6BzUAN1A1VjpXMgdiADQJNlBgA2MBZVRmVjZSagEyVWsBZQMyVGNcNFZuATdUNQtkVWAIOAFmVC4GfVRnVyJTKgdwAHRQM1Z4Vz8HYwBqCWdQNANiAW5UMVZhUjkBIlV+AWoDaVQ3XGZWagEwVDQLZVU5CGsBYVQ0Bj5UO1djUyIHKwAhUDBWZlchBzoAZgljUDcDbQFiVDVWblI6ATxVMwElA3FUIlx3VmoBMFQ1C2FVNwhuAWVUMAY0VDlXZFMqB3AAblAmVjdXZwc2AGAJelA8A2EBeVQ4Vm9SJgE2VT4BNwMqVHRcZFY4AXZUbQsJVWIINQFqVDA=)：感谢k圣开源
+
  <div align="center">
-  <img alt="Kita✨✨✨" src="SisterClaire.jpg" width="128" height="128"/>
-  <p>シスター・クレア</p>
+  <img alt="Kita✨✨✨" src="kita.jpg" width="128" height="128"/>
+  <p>Kita✨✨✨</p>
 </div>
+
 #### 基础工具
  - [Clash verge-rec](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe)：睁眼看世界
  - [7-zip](https://www.7-zip.org/a/7z2409-x64.exe)：解压软件
