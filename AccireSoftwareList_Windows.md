@@ -103,7 +103,7 @@
  
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
-## 🏄edge
+## 🏄Edge
 <!-- prettier-ignore-end -->
 </div>
 
