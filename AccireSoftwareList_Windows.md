@@ -38,8 +38,12 @@
 #### 基础工具
  - [Clash verge-rec](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe)：睁眼看世界
  - [7-zip](https://www.7-zip.org/a/7z2409-x64.exe)：解压软件
+ - [Sumatra](https://www.sumatrapdfreader.org/downloadafter)：轻量化Pdf
+ - [Imageglass](https://imageglass.org/)：看图软件
+ - [Office Tool Plus](https://otp.landian.vip/zh-cn/)：免费激活
+ - [IDM](https://www.internetdownloadmanager.com/download.html)：下载器
  - [QQ](https://im.qq.com/index/)：通讯
- - [图吧工具箱](https://www.tbtool.cn/)：Geek、各类驱动等
+ - [图吧工具箱](https://www.tbtool.cn/)：测试工具、各类驱动等
  - [火绒](https://www.huorong.cn/)：装机必带
  - [度盘](https://pan.baidu.com/download#win)：资源存储
  
@@ -55,9 +59,10 @@
 #### 影音娱乐
  - [Steam](https://store.steampowered.com/about)：游戏平台
  - [Emby](https://emby.media/download.html)：媒体库(目前服务器为hxd)
- - [Spotify](https://www.spotify.com/us/download/other/)；音乐流媒体
+ - [Spotify](https://www.spotify.com/us/download/other/)：音乐流媒体
  - [Obs](https://obs.youqun1.cn/soft/216465.html?bd_vid=8778088601099197330)：主包必备
- 
+
+
 #### 编辑器
  - [VsCode](https://code.visualstudio.com/download)
  - [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)
@@ -112,6 +117,6 @@
 #### 播客
 - [小宇宙](https://ask.xiaoyuzhoufm.com/) 
 
-#### 模型
+#### 建模
 - [模之屋](https://www.aplaybox.com/)
 - [Booth](https://booth.pm/zh-cn)
