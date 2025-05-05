@@ -60,6 +60,7 @@
  - [Hibit](https://www.hibitsoft.ir/)：彻底卸载
  - [STranslate](https://stranslate.zggsong.com/)：全局翻译
  - [PixPin](https://pixpin.cn/)：全局截屏
+ - [Qtscrcpy](https://github.com/barry-ran/QtScrcpy):pc控制手机
  
 #### 影音娱乐
  - [Steam](https://store.steampowered.com/about)：游戏平台
